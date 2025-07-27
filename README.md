@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshitha-11" alt="rakshitha-11" /></a> </p>
 
-- 🔭 About Me- **3nd year B.Tech student in CSE at VIT university.**
+- 🔭 About Me- **3rd year student pursuing B.Tech in CSE at VIT university.**
 
 - 👯 I’m looking to collaborate on **projects**
 
