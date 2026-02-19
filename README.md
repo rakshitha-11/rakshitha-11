@@ -1,26 +1,108 @@
-<h1 align="center">👋 Hi , I'm Rakshitha </h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rakshitha</h1>
+<h3 align="center">Full Stack Developer | Computer Science Undergraduate | Placement Ready</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitha-11&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitha-11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshitha-11" alt="rakshitha-11" /></a> </p>
-
-- 🔭 About Me- **3rd year student pursuing B.Tech in CSE at VIT university.**
-
-- 👯 I’m looking to collaborate on **projects**
-
-- 📝 Certifications- Deep Learning, Industrial IoT Markets & Security
-
-- 📫 How to reach me **p.rakshith11@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rakshitha-prabhu2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshitha-prabhu2005" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/rakshitha-prabhu2005" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:p.rakshith11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/rakshitha-11">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakshitha-11&label=Profile%20Views&color=0e75b6&style=flat" alt="rakshitha-11" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshitha-11&show_icons=true&locale=en&layout=compact" alt="rakshitha-11" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshitha-11&show_icons=true&locale=en" alt="rakshitha-11" /></p>
+## 👩‍💻 About Me  
+
+🎓 I am a **3rd year B.Tech Computer Science and Engineering student at VIT University**.  
+🚀 I’m passionate about **Full Stack Development, Problem Solving, and building scalable applications**.  
+💡 I enjoy working on real-world projects and collaborating with teams to create impactful solutions.  
+
+- 🔭 Currently focusing on **Placement Preparation + Development**
+- 👯 Open to collaborate on **Web Development / Full Stack Projects**
+- 🌱 Learning **Advanced DSA, System Design, and Backend Development**
+- 📝 Certifications: **Deep Learning, Industrial IoT Markets & Security**
+- 📫 Reach me at: **p.rakshith11@gmail.com**
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/rakshitha-prabhu2005" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/>
+  </a>
+</p>
+
+---
+
+## ⚙️ Technical Skills  
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+</p>
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
+</p>
+
+### 🛠 Tools & Technologies
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+</p>
+
+---
+
+## 📌 Featured Projects  
+
+🚀 Here are some of my best projects (Pinned in my GitHub profile):
+
+- ✅ **Project 1:** (Add your project name here)
+- ✅ **Project 2:** (Add your project name here)
+- ✅ **Project 3:** (Add your project name here)
+
+📌 *I focus on writing clean code, using best practices, and building scalable applications.*
+
+---
+
+## 📊 GitHub Statistics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakshitha-11&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitha-11&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rakshitha-11&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshitha-11&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<h3 align="center">✨ "Consistency is the key to success." ✨</h3>
+<h4 align="center">Thank you for visiting my profile 🤝</h4>
