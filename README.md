@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakshitha</h1>
-<h3 align="center">Full Stack Developer | Computer Science Undergraduate | VIT University</h3>
+<h3 align="center">Full Stack Developer | Computer Science Undergraduate </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/rakshitha-prabhu2005" target="_blank">
@@ -25,7 +25,6 @@
 🚀 I’m passionate about **Full Stack Development, Problem Solving, and building scalable applications**.  
 💡 I enjoy working on real-world projects and collaborating with teams to create impactful solutions.  
 
-- 🔭 Currently focusing on **Placement Preparation + Development**
 - 👯 Open to collaborate on **Web Development / Full Stack Projects**
 - 🌱 Learning **Advanced DSA, System Design, and Backend Development**
 - 📝 Certifications: **Deep Learning, Industrial IoT Markets & Security, Oracle Data Science Professional**
@@ -45,22 +44,15 @@
 
 ## ⚙️ Technical Skills  
 
-### 💻 Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-</p>
 
-### 🌐 Web Development
-<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
-</p>
 
-### 🛠 Tools & Technologies
-<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
@@ -68,19 +60,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="45" height="45"/>
-
 </p>
 
----
 
 ## 📊 GitHub Statistics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshitha-11&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitha-11&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakshitha-11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitha-11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 
 ## 📈 Contribution Graph  
 
