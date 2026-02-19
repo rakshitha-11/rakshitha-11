@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rakshitha-prabhu2005" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:p.rakshith11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-0e75b6?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/rakshitha-11">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-0e75b6?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
