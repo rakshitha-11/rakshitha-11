@@ -14,7 +14,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakshitha-11&label=Profile%20Views&color=0e75b6&style=flat" alt="rakshitha-11" />
+  <img src="https://komarev.com/ghpvc/?username=rakshitha-11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Based%20In-Bangalore%2C%20India-0e75b6?style=flat&logo=googlemaps&logoColor=white" alt="Based in Bangalore" />
+</p>
+
+
 </p>
 
 ---
