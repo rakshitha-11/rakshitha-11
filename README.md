@@ -63,17 +63,6 @@
 </p>
 
 
-## 📊 GitHub Statistics  
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rakshitha-11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rakshitha-11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-
 ## 📈 Contribution Graph  
 
 <p align="center">
