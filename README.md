@@ -67,17 +67,6 @@
 
 ---
 
-## 📌 Featured Projects  
-
-🚀 Here are some of my best projects (Pinned in my GitHub profile):
-
-- ✅ **Project 1:** (Add your project name here)
-- ✅ **Project 2:** (Add your project name here)
-- ✅ **Project 3:** (Add your project name here)
-
-📌 *I focus on writing clean code, using best practices, and building scalable applications.*
-
----
 
 ## 📊 GitHub Statistics  
 
