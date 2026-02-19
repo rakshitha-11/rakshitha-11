@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakshitha</h1>
-<h3 align="center">Full Stack Developer | Computer Science Undergraduate </h3>
+<h3 align="center">Full Stack Developer | Computer Science Undergraduate| DSA Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/rakshitha-prabhu2005" target="_blank">
@@ -66,11 +66,11 @@
 ## 📊 GitHub Statistics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshitha-11&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rakshitha-11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitha-11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rakshitha-11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 
