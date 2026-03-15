@@ -30,7 +30,7 @@
 💡 I enjoy working on real-world projects and collaborating with teams to create impactful solutions.  
 
 - 👯 Open to collaborate on **Web Development / Full Stack Projects**
-- 🌱 Learning **Advanced DSA, System Design, and Backend Development**
+- 🌱 Learning **Advanced DSA, and Backend Development**
 - 📝 Certifications: **Deep Learning, Industrial IoT Markets & Security, Oracle Data Science Professional**
 - 📫 Reach me at: **p.rakshith11@gmail.com**
 
